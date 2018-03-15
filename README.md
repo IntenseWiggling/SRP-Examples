@@ -4,3 +4,5 @@ Both `Example` and `ExampleName` are simple powershell scripts which take 1) a f
 
 * `Example` : The PS script takes to unamed args (`script.ps1 filename.txt "content"`)
 * `ExampleName` : Takes two named args (`script.ps1 -file filename.txt -content "content"`)
+
+The second argument, 'content', should be given as an lrcrypt'd string.
